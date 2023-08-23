@@ -1,0 +1,17 @@
+
+
+.banner{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    height:100vh;
+    background-size:cover;
+}
+.h{
+    color:white;
+}
+.p{
+    color:white;
+}
+.im{
+    height:80px;
+    width:70px;
+}
